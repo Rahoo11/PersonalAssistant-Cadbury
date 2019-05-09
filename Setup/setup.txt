@@ -1,0 +1,5 @@
+pip install nltk
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pypiwin32
+pip install feedparser
